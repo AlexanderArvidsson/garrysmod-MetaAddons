@@ -1,5 +1,13 @@
 [
    {
+      "version":"1.2.1",
+      "changelog":[
+         "Fixed clientside interaction through obstacles",
+         "Fixed graphical glitches in certain cases",
+         "Removed unused image files"
+      ]
+   },
+   {
       "version":"1.2.0",
       "changelog":[
          "Added version checking"
