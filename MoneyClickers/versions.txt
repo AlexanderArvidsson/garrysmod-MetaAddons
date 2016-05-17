@@ -3,7 +3,7 @@
       "version":"1.2.3",
       "changelog":[
          "Added sound configuration.",
-         "Reverted reduntant serverside check.",
+         "Reverted redundant serverside check.",
          "Switched version checking destination."
       ]
    },
