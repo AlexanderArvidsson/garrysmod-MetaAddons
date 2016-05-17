@@ -1,5 +1,12 @@
 [
    {
+      "version":"1.2.2",
+      "changelog":[
+         "Added workshop config to replace FastDL for downloading textures.",
+         "Added another serverside check for net messages."
+      ]
+   },
+   {
       "version":"1.2.1",
       "changelog":[
          "Fixed clientside interaction through obstacles",
