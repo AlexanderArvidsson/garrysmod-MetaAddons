@@ -2,7 +2,7 @@
    {
       "version":"1.0.1",
       "changelog":[
-         "Removed test code."
+         "Removed test code that resulted in visual errors."
       ]
    },
    {
