@@ -1,5 +1,12 @@
 [
    {
+      "version":"1.1.0",
+      "changelog":[
+         "Added configurable language support",
+         "Fixed bug causing text on keypad to not show."
+      ]
+   },
+   {
       "version":"1.0.1",
       "changelog":[
          "Removed test code that resulted in visual errors."
