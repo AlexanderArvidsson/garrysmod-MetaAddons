@@ -1,5 +1,13 @@
 [
    {
+      "version":"1.4.0",
+      "changelog":[
+         "Added support for Vrondakis' Leveling System, check the SF page to see how to enable it.",
+         "Removed debug config print when spawning entity.",
+         "Fixed withdraw hint using wrong icon."
+      ]
+   },
+   {
       "version":"1.3.2",
       "changelog":[
          "Optional compatibility update."
