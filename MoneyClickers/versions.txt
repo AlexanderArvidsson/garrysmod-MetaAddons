@@ -1,5 +1,12 @@
 [
    {
+      "version":"1.4.1",
+      "changelog":[
+         "Backend changes to support pocketing addons.",
+         "Added support for built in DarkRP Pocket tool."
+      ]
+   },
+   {
       "version":"1.4.0",
       "changelog":[
          "Added support for Vrondakis' Leveling System, check the SF page to see how to enable it.",
