@@ -1,5 +1,11 @@
 [
    {
+      "version":"1.5.0",
+      "changelog":[
+         "Added optional stealing mechanic."
+      ]
+   },
+   {
       "version":"1.4.1",
       "changelog":[
          "Backend changes to support pocketing addons.",
