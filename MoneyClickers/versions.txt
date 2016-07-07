@@ -1,5 +1,11 @@
 [
    {
+      "version":"1.5.2",
+      "changelog":[
+         "Fixed networking error with certain entity configurations."
+      ]
+   },
+   {
       "version":"1.5.1",
       "changelog":[
          "Fixed points going into negatives when pocketing and trying to repair."
