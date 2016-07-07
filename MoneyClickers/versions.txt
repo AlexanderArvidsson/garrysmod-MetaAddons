@@ -1,5 +1,11 @@
 [
    {
+      "version":"1.5.1",
+      "changelog":[
+         "Fixed points going into negatives when pocketing and trying to repair."
+      ]
+   },
+   {
       "version":"1.5.0",
       "changelog":[
          "Added optional stealing mechanic."
