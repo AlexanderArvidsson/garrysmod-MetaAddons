@@ -1,5 +1,11 @@
 [
    {
+      "version":"1.5.3",
+      "changelog":[
+         "Fixed error related to the stealing mechanic."
+      ]
+   },
+   {
       "version":"1.5.2",
       "changelog":[
          "Fixed networking error with certain entity configurations."
