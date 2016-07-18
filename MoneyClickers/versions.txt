@@ -1,5 +1,11 @@
 [
    {
+      "version":"1.5.4",
+      "changelog":[
+         "Fixed error when transferring owner."
+      ]
+   },
+   {
       "version":"1.5.3",
       "changelog":[
          "Fixed error related to the stealing mechanic."
