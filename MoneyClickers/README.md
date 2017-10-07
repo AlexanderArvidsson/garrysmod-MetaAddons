@@ -1,3 +1,3 @@
-# MoneyClickers
+# Money Clickers
 A unique printer addon for DarkRP  
-Buy it on ScriptFodder: https://scriptfodder.com/scripts/view/2442
+Buy it on Gmodstore: https://gmodstore.com/scripts/view/2442
