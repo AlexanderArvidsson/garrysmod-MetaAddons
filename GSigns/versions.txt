@@ -1,5 +1,12 @@
 [
    {
+      "version":"1.0.1",
+      "changelog":[
+         "Fixed not exiting edit mode when player dies.",
+         "Fixed saving with empty filename."
+      ]
+   },
+   {
       "version":"1.0.0",
       "changelog":[
          "Initial version."
